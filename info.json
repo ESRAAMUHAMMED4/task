@@ -1,0 +1,13 @@
+[
+  { "id": 1, "degrees": [10, 20] },
+  { "name": "esraa", "id": 2, "degrees": [10, 20] },
+  { "name": "esraa", "id": 4, "degrees": 0 },
+  { "name": "esraa", "id": 5, "degrees": 0 },
+  { "name": "esraa", "id": 6, "degrees": 0 },
+  { "name": "esraa", "id": 7, "degrees": [10, 5] },
+  { "name": "esraa", "id": 8, "degrees": 15 },
+  { "name": "esraa", "id": 50, "degrees": [10, 20, 5] },
+  { "name": "new", "id": 9, "degrees": 6 },
+  { "name": "new", "id": 10, "degrees": 6 }
+]
+
